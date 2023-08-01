@@ -1,0 +1,23 @@
+{
+	"name": "Tropical Paradise",
+	"background": "#1c1307",
+	"foreground": "#c0af8d",
+	"cursorColor": "#c0af8d",
+	"selectionBackground": "#c0af8d",
+	"black": "#1c1307",
+	"red": "#a61300",
+	"green": "#99421d",
+	"yellow": "#c79038",
+	"blue": "#965541",
+	"purple": "#998240",
+	"cyan": "#ac764a",
+	"white": "#c0af8d",
+	"brightBlack": "#965541",
+	"brightRed": "#a61300",
+	"brightGreen": "#99421d",
+	"brightYellow": "#c79038",
+	"brightBlue": "#965541",
+	"brightPurple": "#998240",
+	"brightCyan": "#ac764a",
+	"brightWhite": "#c0af8d"
+}
